@@ -22,7 +22,7 @@
     "bcrypt-nodejs": "0.0.3",
     "cors": "^2.5.3",
     "express": "^4.10.1",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.15",
     "mocha": "^2.0.1",
     "mongo-migrate": "^0.1.0",
     "mongodb": "^1.4.23",
